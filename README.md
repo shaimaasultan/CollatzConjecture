@@ -10,9 +10,17 @@ The state [Even number end with digit 2] force flow every time to one direction 
 Therefor state flow ends at state [ Even number end with digit 2] and goes in one direction only and this keeps repeating in the flow until it reaches state [even umber ends with 4] at X = 4 then the flow will be in cycle [4-2-1] and will never get out of this cycle.
 The main flow in this state diagram is the flow that switch from odd numbers into even numbers which is from state [odd number ends with digit 3] to state [even number ends with digit 0] 
 
+also I show the visualization for the Collatz sequence of operations as linear functions g(x) = 3 * X + 1 and f(x) = 2 X and its effect on the final number result.
+I used f(x) as 2X to force even numebrs and flip from even to odd. both functions will have the same value y = 4 for g(1) and f(2).
+so we end up with one triangle between the two linea functions g(x) and f(x) at 4 , 2 , 1. 
 <img src="Screenshots/Screenshot 2024-01-18 004904.png" />
 <img src="Screenshots/Screenshot 2024-01-17 225613.png" />
 <img src="Screenshots/Screenshot 2024-01-17 220343.png" />
+<img src="Screenshots/Collatz_7.png" />
+<img src="Screenshots/Collatz_8.png" />
+<img src="Screenshots/Collatz_9.png" />
+<img src="Screenshots/Collatz_5.png" />
+<img src="Screenshots/Collatz_6.png" />
 <img src="Screenshots/Screenshot 2024-01-17 215629.png" />
 <img src="Screenshots/Screenshot 2024-01-17 220706.png" />
 <img src="Screenshots/Screenshot 2024-01-17 220706.png" />
