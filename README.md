@@ -21,6 +21,8 @@ so we end up with one triangle between the two linea functions g(x) and f(x) at 
 <img src="Screenshots/Collatz_9.png" />
 <img src="Screenshots/Collatz_5.png" />
 <img src="Screenshots/Collatz_6.png" />
+numbers keeps oscillate between the two operations sequences untill it get into numbers oscillation trap ( 4-2-1 ) Cycle.
+<img src="Screenshots/Collatz_12.png" />
 <img src="Screenshots/Screenshot 2024-01-17 215629.png" />
 <img src="Screenshots/Screenshot 2024-01-17 220706.png" />
 <img src="Screenshots/Screenshot 2024-01-17 220706.png" />
